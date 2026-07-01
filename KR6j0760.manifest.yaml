@@ -1,0 +1,143 @@
+canonical_identifier: bkk:krp/KR6j0760/v1
+canonical_location: https://kanripo.org/bkk/KR6j0760/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 准提焚修悉地懺悔玄文
+  identifiers:
+    alt_id:
+    - X74n1482
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1482.xml
+    old_id: X74n1482
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0760_000.yaml, hash: 'sha256:93083e92a4a3e3fe51f8d82af94a0b37e840d87fa415d67bafd5e7deb746f8eb'}
+  - {seq: 1, filename: KR6j0760_001.yaml, hash: 'sha256:88df71d364dc1b717697967f30bb078f88fcf9f29d474775073f15f478ec6633'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0760_000.markers.yaml, hash: 'sha256:acebbd611b15248e3e87d205a96c0ce5c3e4c1ac63da5aa1fc9bdb0490531e7b'}
+  - {seq: 1, role: markers, filename: assets/KR6j0760_001.markers.yaml, hash: 'sha256:f8702435735118b70c9a6b9386135c0c928979c3dd7e85f61b1f9b88f77381d7'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0760_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1482-A 重梓佛母准提焚修悉地懺悔玄文序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0760_X_000-mulu-2
+    span:
+    - front
+    - 677
+    - 677
+  label: No. 1482-B 佛母准提焚修悉地儀文寶懺序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0760_X_000-mulu-3
+    span:
+    - front
+    - 3310
+    - 3310
+  label: No. 1482-C 佛母準提脩懺儀序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0760_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 4114
+  label: 大准提菩薩焚修悉地懺悔玄文
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0760_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 淨口真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0760_X_001-mulu-2
+    span:
+    - body
+    - 19
+    - 19
+  label: 淨身真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0760_X_001-mulu-3
+    span:
+    - body
+    - 38
+    - 38
+  label: 淨手真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0760_X_001-mulu-4
+    span:
+    - body
+    - 56
+    - 56
+  label: 入壇三禮
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0760_X_001-mulu-5
+    span:
+    - body
+    - 3443
+    - 3443
+  label: 志心懺悔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0760_X_001-mulu-6
+    span:
+    - body
+    - 3697
+    - 3697
+  label: 大輪明王滅罪真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0760_X_001-mulu-7
+    span:
+    - body
+    - 3791
+    - 3791
+  label: 志心發願
+  type: mulu
+  level: 1
+hash: sha256:3ff19965859e74117ccf492e4a2ba49ac5747cba8f980a97c1cc67c8d771e454
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
