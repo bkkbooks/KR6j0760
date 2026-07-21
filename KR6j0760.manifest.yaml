@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0760_000.yaml, hash: 'sha256:6f084864e81049d58a2d530a9e453e3b8e1039f49e896cc083ce234bc67543fe'}
+  - {seq: 0, filename: KR6j0760_000.yaml, hash: 'sha256:4d26b723dca1e2bbb32e6dbdb2ac73f379f836e313830cdf035dec976762501e'}
   - {seq: 1, filename: KR6j0760_001.yaml, hash: 'sha256:f9a62245798251fcc5f3f983fdad3251b4ac3a1c2cfa194f38db1871996be880'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0760_000.markers.yaml, hash: 'sha256:10ceec6d16532802959ea04ff40008be69fb9b1278df0aa451ac576b28895029'}
+  - {seq: 0, role: markers, filename: assets/KR6j0760_000.markers.yaml, hash: 'sha256:a3d8746288a535f03aed9790933852dc5892aa3d444e9cf73cafaaab9ea5c6e1'}
   - {seq: 1, role: markers, filename: assets/KR6j0760_001.markers.yaml, hash: 'sha256:dab597024c98eb53ba7ed845c68af58273a4f8aa1c68c7a352d4a6640d75bfc1'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6j0760_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1482-A 重梓佛母准提焚修悉地懺悔玄文序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0760_X_000-mulu-2
     span:
-    - front
+    - body
     - 677
     - 677
   label: No. 1482-B 佛母准提焚修悉地儀文寶懺序
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0760_X_000-mulu-3
     span:
-    - front
+    - body
     - 3310
     - 3310
   label: No. 1482-C 佛母準提脩懺儀序
@@ -137,7 +137,7 @@ table_of_contents:
   label: 志心發願
   type: mulu
   level: 1
-hash: sha256:d2b67bb3b5a4971162853152e190014d0f282b79e2bbe0bf6fc107604409c040
+hash: sha256:66b9e2754338d2530354771d654c8d6635f013d051c29d798ea31121dbf1a27b
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
